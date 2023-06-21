@@ -1,0 +1,7 @@
+你可以使用下面的命令配置用户名和邮箱，以便关联 GitHub：
+
+```
+ssh-keygen -t rsa -C "hectora@qq.com"
+$ git config --global user.name "zjw"
+$ git config --global user.email "hectora@qq.com"
+```
